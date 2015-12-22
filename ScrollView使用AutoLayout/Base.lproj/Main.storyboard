@@ -33,7 +33,7 @@
                                                         <color key="backgroundColor" red="0.35750091179999999" green="0.63810004009999999" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                     </view>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PaQ-Y0-di8" userLabel="yellowView">
-                                                        <rect key="frame" x="0.0" y="578" width="320" height="480"/>
+                                                        <rect key="frame" x="0.0" y="480" width="320" height="480"/>
                                                         <animations/>
                                                         <color key="backgroundColor" red="1" green="0.62008015670000005" blue="0.24836657840000001" alpha="1" colorSpace="calibratedRGB"/>
                                                     </view>
@@ -45,7 +45,7 @@
                                                     <constraint firstItem="PaQ-Y0-di8" firstAttribute="leading" secondItem="SKZ-zJ-s0U" secondAttribute="leading" id="SO0-KB-hRf"/>
                                                     <constraint firstItem="PaQ-Y0-di8" firstAttribute="height" secondItem="SKZ-zJ-s0U" secondAttribute="height" id="aSq-Yz-Zdz"/>
                                                     <constraint firstItem="SKZ-zJ-s0U" firstAttribute="leading" secondItem="Qzy-KI-Nbn" secondAttribute="leading" id="ncE-dK-q57"/>
-                                                    <constraint firstItem="PaQ-Y0-di8" firstAttribute="top" secondItem="SKZ-zJ-s0U" secondAttribute="bottom" constant="98" id="tzi-BS-b49"/>
+                                                    <constraint firstItem="PaQ-Y0-di8" firstAttribute="top" secondItem="SKZ-zJ-s0U" secondAttribute="bottom" id="tzi-BS-b49"/>
                                                     <constraint firstItem="SKZ-zJ-s0U" firstAttribute="top" secondItem="Qzy-KI-Nbn" secondAttribute="top" id="yAI-fv-zmo"/>
                                                 </constraints>
                                             </view>
